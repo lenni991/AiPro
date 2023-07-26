@@ -7,8 +7,9 @@ This repository contains code for regression analysis on the insurance dataset u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/insurance_regression.git
-   cd insurance_regression
+   git clone https://github.com/your_username/insurance_regression.git](https://github.com/lenni991/mini_ML/tree/main/PyCaret%20Insurance%20Regression
+   cd PyCaret Insurance Regression
+   cd insurance
    ```
 
 2. Install required packages:
